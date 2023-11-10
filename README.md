@@ -1,0 +1,2 @@
+# DioDocsPdfSecurityPassword
+PDFドキュメントにパスワードを設定して保護する
